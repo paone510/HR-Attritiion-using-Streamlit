@@ -15,11 +15,15 @@ Run the project :
 
 Ensure that in promt you are connect to the project home directory, To change directory use below command-
 
-cd {project directory path}
+````
+cd {project directory path} 
+````
 
 Run the model using below command(streamlit must be installed)-
 
+````
 streamlit run app.py
+````
 
 
 https://user-images.githubusercontent.com/88028350/142362037-965cbc90-6ec6-42b4-81a7-a41c819d6e2b.mp4
